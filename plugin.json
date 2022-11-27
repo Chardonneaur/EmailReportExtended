@@ -9,13 +9,13 @@
     "authors": [
         {
             "name": "Matomo",
-            "email": "",
-            "homepage": ""
+            "email": "contact@ronan-chardonneau.com",
+            "homepage": "https://github.com/Chardonneaur/EmailReportExtended/"
         }
     ],
     "support": {
-        "email": "",
-        "issues": "",
+        "email": "contact@ronan-chardonneau.com",
+        "issues": "https://github.com/Chardonneaur/EmailReportExtended/",
         "forum": "",
         "irc": "",
         "wiki": "",
@@ -23,7 +23,7 @@
         "docs": "",
         "rss": ""
     },
-    "homepage": "",
+    "homepage": "https://github.com/Chardonneaur/EmailReportExtended/",
     "license": "GPL v3+",
     "keywords": []
 }
