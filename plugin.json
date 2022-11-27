@@ -1,0 +1,29 @@
+{
+    "name": "EmailReportExtended",
+    "description": "A plugin which extends the number of rows to display within the email report.",
+    "version": "0.1.0",
+    "theme": false,
+    "require": {
+        "matomo": ">=4.12.3-stable,<5.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "Matomo",
+            "email": "",
+            "homepage": ""
+        }
+    ],
+    "support": {
+        "email": "",
+        "issues": "",
+        "forum": "",
+        "irc": "",
+        "wiki": "",
+        "source": "",
+        "docs": "",
+        "rss": ""
+    },
+    "homepage": "",
+    "license": "GPL v3+",
+    "keywords": []
+}
